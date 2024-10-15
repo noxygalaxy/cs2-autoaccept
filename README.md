@@ -21,3 +21,7 @@ it's simple! just change time.sleep value in line 38
 38       time.sleep(4)
 39       pyautogui.click(*coordinates)
 ```
+
+for default this value is 4 seconds
+
+### GIMME A STAR IF YOU LIKE IT!!!
