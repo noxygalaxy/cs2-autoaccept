@@ -24,4 +24,4 @@ it's simple! just change time.sleep value in line 38
 
 for default this value is 4 seconds
 
-### GIMME A STAR IF YOU LIKE IT!!!
+# GIMME A STAR IF YOU LIKE IT!!!
