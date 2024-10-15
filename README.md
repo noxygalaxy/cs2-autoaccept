@@ -3,6 +3,8 @@ made simple enough, just tries to find specific color in specific coordinates :3
 
 works only for 1920x1080 ( in future i will update this :p soo people with 2k, 4k dw! )
 
+<img src="./assets/ct_dance.gif" alt="CT Dance">
+
 ## Installation
 1. Install [Python 3.X](https://www.python.org/) if you haven't already
 2. Install source code and run `install.bat` ( it's gonna download required libraries! )
