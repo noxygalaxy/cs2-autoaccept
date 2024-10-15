@@ -17,7 +17,7 @@ works only for 1920x1080 ( in future i will update this :p soo people with 2k, 4
 it's simple! just change time.sleep value in line 38
 
 ```
-if current_color == target_color:
-    time.sleep(4)
-    pyautogui.click(*coordinates)
+37   if current_color == target_color:
+38       time.sleep(4)
+39       pyautogui.click(*coordinates)
 ```
